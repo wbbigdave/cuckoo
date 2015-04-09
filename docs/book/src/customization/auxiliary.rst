@@ -11,7 +11,7 @@ The skeleton of a module would look something like this:
     .. code-block:: python
         :linenos:
 
-        from lib.cuckoo.common.abstracts import Auxiliary
+        from lib.common.abstracts import Auxiliary
 
         class MyAuxiliary(Auxiliary):
 
